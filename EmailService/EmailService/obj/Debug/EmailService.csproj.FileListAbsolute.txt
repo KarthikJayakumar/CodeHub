@@ -1,0 +1,9 @@
+D:\Karthik\Git\EmailService\EmailService\bin\EmailService.dll.config
+D:\Karthik\Git\EmailService\EmailService\bin\EmailService.dll
+D:\Karthik\Git\EmailService\EmailService\bin\EmailService.pdb
+D:\Karthik\Git\EmailService\EmailService\bin\DatabaseLayer.dll
+D:\Karthik\Git\EmailService\EmailService\bin\Npgsql.dll
+D:\Karthik\Git\EmailService\EmailService\bin\DatabaseLayer.pdb
+D:\Karthik\Git\EmailService\EmailService\obj\Debug\EmailService.csprojResolveAssemblyReference.cache
+D:\Karthik\Git\EmailService\EmailService\obj\Debug\EmailService.dll
+D:\Karthik\Git\EmailService\EmailService\obj\Debug\EmailService.pdb

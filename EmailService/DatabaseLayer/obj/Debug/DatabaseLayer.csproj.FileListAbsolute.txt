@@ -1,0 +1,5 @@
+D:\Karthik\Git\EmailService\DatabaseLayer\bin\Debug\DatabaseLayer.dll
+D:\Karthik\Git\EmailService\DatabaseLayer\bin\Debug\DatabaseLayer.pdb
+D:\Karthik\Git\EmailService\DatabaseLayer\bin\Debug\Npgsql.dll
+D:\Karthik\Git\EmailService\DatabaseLayer\obj\Debug\DatabaseLayer.dll
+D:\Karthik\Git\EmailService\DatabaseLayer\obj\Debug\DatabaseLayer.pdb

@@ -1,0 +1,32 @@
+--Create the table
+CREATE TABLE TriggerEmail
+(
+  id SERIAL NOT NULL, -- SERIAL --> identity-like functionality
+  username character varying(50),
+    uid character varying(50),
+  CONSTRAINT TriggerEmail_pkey PRIMARY KEY (id)
+)
+WITH (OIDS=FALSE);
+ALTER TABLE TriggerEmail OWNER TO karthik; -- my user
+
+--insert some data
+INSERT INTO TriggerEmail (id, username, uid) VALUES (1, 'karthik', '12345');
+INSERT INTO TriggerEmail (id, username, uid) VALUES (2, 'anam', '67890');
+
+
+--Create the function / Stored procedure
+create or replace function TriggerEmailFor(nameUser character varying(50), 
+                                           idu  character varying(50),
+                                           out isEmailTriggered numeric)
+AS $$
+BEGIN 
+if( SELECT 1 FROM triggeremail where username = nameUser and uid = idu)then
+isEmailTriggered = 1;
+else
+isEmailTriggered = 0;
+end if;
+end; $$
+language plpgsql;
+
+--Test the function
+select * from TriggerEmailFor('anam', '67890');--sadf

@@ -1,0 +1,8 @@
+D:\Karthik\Git\EmailService\TestEmailService\bin\Debug\TestEmailService.exe.config
+D:\Karthik\Git\EmailService\TestEmailService\bin\Debug\TestEmailService.exe
+D:\Karthik\Git\EmailService\TestEmailService\bin\Debug\TestEmailService.pdb
+D:\Karthik\Git\EmailService\TestEmailService\obj\Debug\TestEmailService.Form1.resources
+D:\Karthik\Git\EmailService\TestEmailService\obj\Debug\TestEmailService.Properties.Resources.resources
+D:\Karthik\Git\EmailService\TestEmailService\obj\Debug\TestEmailService.csproj.GenerateResource.Cache
+D:\Karthik\Git\EmailService\TestEmailService\obj\Debug\TestEmailService.exe
+D:\Karthik\Git\EmailService\TestEmailService\obj\Debug\TestEmailService.pdb
