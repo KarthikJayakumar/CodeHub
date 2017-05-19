@@ -1,0 +1,13 @@
+c:\users\karthik.jayakumar\documents\visual studio 2017\Projects\MonoCSharpScripting\MonoCSharpScripting\bin\Debug\MonoCSharpScripting.exe.config
+c:\users\karthik.jayakumar\documents\visual studio 2017\Projects\MonoCSharpScripting\MonoCSharpScripting\bin\Debug\MonoCSharpScripting.exe
+c:\users\karthik.jayakumar\documents\visual studio 2017\Projects\MonoCSharpScripting\MonoCSharpScripting\bin\Debug\MonoCSharpScripting.pdb
+c:\users\karthik.jayakumar\documents\visual studio 2017\Projects\MonoCSharpScripting\MonoCSharpScripting\bin\Debug\Mono.CSharp.dll
+c:\users\karthik.jayakumar\documents\visual studio 2017\Projects\MonoCSharpScripting\MonoCSharpScripting\obj\Debug\MonoCSharpScripting.csprojResolveAssemblyReference.cache
+c:\users\karthik.jayakumar\documents\visual studio 2017\Projects\MonoCSharpScripting\MonoCSharpScripting\obj\Debug\MonoCSharpScripting.Form1.resources
+c:\users\karthik.jayakumar\documents\visual studio 2017\Projects\MonoCSharpScripting\MonoCSharpScripting\obj\Debug\MonoCSharpScripting.Properties.Resources.resources
+c:\users\karthik.jayakumar\documents\visual studio 2017\Projects\MonoCSharpScripting\MonoCSharpScripting\obj\Debug\MonoCSharpScripting.csproj.GenerateResource.Cache
+c:\users\karthik.jayakumar\documents\visual studio 2017\Projects\MonoCSharpScripting\MonoCSharpScripting\obj\Debug\MonoCSharpScripting.exe
+c:\users\karthik.jayakumar\documents\visual studio 2017\Projects\MonoCSharpScripting\MonoCSharpScripting\obj\Debug\MonoCSharpScripting.pdb
+c:\users\karthik.jayakumar\documents\visual studio 2017\Projects\MonoCSharpScripting\MonoCSharpScripting\bin\Debug\CSScriptLibrary.dll
+c:\users\karthik.jayakumar\documents\visual studio 2017\Projects\MonoCSharpScripting\MonoCSharpScripting\bin\Debug\DTO.dll
+c:\users\karthik.jayakumar\documents\visual studio 2017\Projects\MonoCSharpScripting\MonoCSharpScripting\bin\Debug\DTO.pdb
