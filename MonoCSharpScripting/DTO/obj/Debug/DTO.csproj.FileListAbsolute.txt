@@ -1,0 +1,5 @@
+c:\users\karthik.jayakumar\documents\visual studio 2017\Projects\MonoCSharpScripting\DTO\bin\Debug\DTO.dll
+c:\users\karthik.jayakumar\documents\visual studio 2017\Projects\MonoCSharpScripting\DTO\bin\Debug\DTO.pdb
+c:\users\karthik.jayakumar\documents\visual studio 2017\Projects\MonoCSharpScripting\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+c:\users\karthik.jayakumar\documents\visual studio 2017\Projects\MonoCSharpScripting\DTO\obj\Debug\DTO.dll
+c:\users\karthik.jayakumar\documents\visual studio 2017\Projects\MonoCSharpScripting\DTO\obj\Debug\DTO.pdb
